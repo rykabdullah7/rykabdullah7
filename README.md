@@ -26,6 +26,4 @@ Frontend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rykabdullah7"><img src="https://github-readme-stats.vercel.app/api?username=rykabdullah7&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="rykabdullah7's GitHub stats" /></a>
-
-<a href="http://www.github.com/rykabdullah7"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rykabdullah7&bg_color=22272e&color=14b8a6&line=14b8a6&point=14b8a6&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/rykabdullah7"><img src="https://github-readme-stats.vercel.app/api?username=rykabdullah7&show_icons=true&hide=stars,contribs&count_private=true&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="rykabdullah7's GitHub stats" /></a>
