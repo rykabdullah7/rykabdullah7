@@ -36,11 +36,15 @@ Software Developer
 
 <p align="left"> <a href="https://www.github.com/rykabdullah7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/iam_abbasi_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abdullahkhanabbasi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+---
 
+<b align="center">My GitHub Stats</b>
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rykabdullah7&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 
-<a href="http://www.github.com/rykabdullah7"><img src="https://github-readme-stats.vercel.app/api?username=rykabdullah7&show_icons=true&hide=stars,contribs&count_private=true&include_all_commits=true&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="rykabdullah7's GitHub stats" /></a>
+---
 
 <a href="https://github.com/rykabdullah7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rykabdullah7&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
